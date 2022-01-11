@@ -1,0 +1,2 @@
+# ABCDEFGHI
+git fatal
